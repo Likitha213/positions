@@ -1,0 +1,131 @@
+.container{
+    /* border: 2px solid; */
+    height: 600px;
+    padding-left: 20px;
+}
+.child1{
+    /* border: 2px solid red; */
+    height: 300px;
+}
+img{
+    width: 100%;
+}
+.subchild1{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name1{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
+.subchild2{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name2{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;  
+    padding: 10px;
+}
+.subchild3{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name3{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
+.subchild4{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    /* padding: 20px; */
+    position: relative;
+}
+.name4{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
+.child2{
+    /* border: 2px solid yellow; */
+    height: 250px;
+    margin-top: 30px;
+    position: absolute;
+}
+.subchild5{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name5{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
+.subchild6{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name6{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
+.subchild7{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name7{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
+.subchild8{
+    /* border: 2px solid blue; */
+    display: inline-block;
+    /* height: 250px; */
+    width: 400px;
+    position: relative;
+}
+.name8{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: -20px;
+    padding: 10px;
+}
